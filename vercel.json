@@ -1,3 +1,4 @@
 {
-    "routes": [{ "src": "/(.*)", "dest": "https://s799120.ha009.t.justns.ru/$1" }]
+    "version": 2,
+    "routes": [{ "src": "/(.*)", "dest": "http://s799120.ha009.t.justns.ru/$1" }]
 }
